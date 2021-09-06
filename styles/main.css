@@ -178,7 +178,7 @@
         -moz-border-radius: 50%;
         -ms-border-radius: 50%;
         -o-border-radius: 50%;
-        border: 1px solid #ddd;
+        border: 5px solid white;
     }
     .card-img img {
         border-top-left-radius: 15px;
